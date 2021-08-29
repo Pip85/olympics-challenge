@@ -34,19 +34,19 @@ Data for gdp.csv was normalized for 2020 USD.<br>
 Data from both files was cleaned using pandas and Jupyter Notebook.<br>
 
 
-![Cleaning]()<br>
+![Cleaning](https://github.com/Pip85/olympics-challenge/blob/main/images/process_workflow.png)<br>
 
 Several graphs were created for analysis of medals per country/sport, example below:<br>
 
-![Medals]()<br>
+![Medals](https://github.com/Pip85/olympics-challenge/blob/main/images/countries_most_medals.png)<br>
 
 Linear regression and performed and r2 calculated to prove correlation between countries winning the most medals and their GDP<br>
 
-![Regression]()<br>
+![Regression](https://github.com/Pip85/olympics-challenge/blob/main/images/GDP_medals_scatter.png)<br>
 
 Hypothesis was proven - there is correlation between countries winning the most medals and their GDP.<br>
 
-![Hypothesis]()<br>
+![Hypothesis](https://github.com/Pip85/olympics-challenge/blob/main/images/hypothesis_proven.png)<br>
 
 ## **analysis and presentation**
 
